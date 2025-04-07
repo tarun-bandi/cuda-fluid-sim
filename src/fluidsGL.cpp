@@ -2,3 +2,4 @@
 // Basic fluid simulation
 // Particle system
 // OpenGL visualization
+// Interactive controls
