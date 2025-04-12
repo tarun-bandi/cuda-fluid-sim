@@ -3,3 +3,4 @@
 // Particle system
 // OpenGL visualization
 // Interactive controls
+// Color mapping
