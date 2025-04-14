@@ -5,3 +5,4 @@
 // Interactive controls
 // Color mapping
 // Velocity visualization
+// Heat sources
