@@ -3,3 +3,4 @@
 // Temperature field
 // Temperature advection
 // Temperature diffusion
+// Performance optimizations
