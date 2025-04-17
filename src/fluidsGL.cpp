@@ -6,3 +6,4 @@
 // Color mapping
 // Velocity visualization
 // Heat sources
+// Error handling
