@@ -7,3 +7,4 @@
 // Velocity visualization
 // Heat sources
 // Error handling
+// Reset functionality
