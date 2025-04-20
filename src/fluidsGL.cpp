@@ -8,3 +8,4 @@
 // Heat sources
 // Error handling
 // Reset functionality
+// FPS counter
