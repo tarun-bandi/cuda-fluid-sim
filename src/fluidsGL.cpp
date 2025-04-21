@@ -9,3 +9,4 @@
 // Error handling
 // Reset functionality
 // FPS counter
+// Window resizing
