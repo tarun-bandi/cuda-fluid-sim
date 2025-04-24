@@ -5,3 +5,4 @@
 // Temperature diffusion
 // Performance optimizations
 // Boundary conditions
+// Final optimizations
